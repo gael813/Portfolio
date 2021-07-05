@@ -1,0 +1,33 @@
+.zoom {
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.1);
+}
+
+.center {
+    width: 1018px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+.presentation {
+    text-align: center;
+}
+
+.width {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
